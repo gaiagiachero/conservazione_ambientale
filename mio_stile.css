@@ -1,5 +1,5 @@
 h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    font-size: 55px; color:rgb(183, 0, 255); 
+    font-size: 60px; color:rgb(254, 80, 2); 
     -webkit-text-stroke-width: 0.5px; 
     -webkit-text-stroke-color: black;}
 
@@ -7,5 +7,5 @@ h2 {color:white;
     text-decoration: underline;}
 
 p {font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 14px; 
+    font-size: 16px; 
     color: white;}
