@@ -1,17 +1,11 @@
-h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-size: 55px; color:rgb(183, 0, 255); 
     -webkit-text-stroke-width: 0.5px; 
-    -webkit-text-stroke-color: black;
-}
+    -webkit-text-stroke-color: black;}
 
-h2 {
-    color:white; 
-    text-decoration: underline;
-}
+h2 {color:white; 
+    text-decoration: underline;}
 
-p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+p {font-family: Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 14px; 
-    color: white;
-}
+    color: white;}
