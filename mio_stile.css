@@ -18,7 +18,7 @@ header {background-color: green;
         font-size: 20px;        
     }
 
-nav {display: list-item;
+nav {display: flex;
         justify-content: space-around;
         background-color: white;
         padding: 0.5;
