@@ -1,9 +1,4 @@
-h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    font-size: 60px; color:rgb(254, 80, 2); 
-    -webkit-text-stroke-width: 0.5px; 
-    -webkit-text-stroke-color: black;}
-
-h2 {color:white; 
+h2 {color:rgb(254, 80, 2); 
     text-decoration: underline;}
 
 p {font-family: Verdana, Geneva, Tahoma, sans-serif; 
