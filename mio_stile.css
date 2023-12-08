@@ -36,6 +36,20 @@ nav a {
     font-size: 16px;
     letter-spacing: 1.5px;
     }
+
+nav a:link {
+    text-decoration: none;
+}
+
+nav a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover, a:active {
+    text-decoration: underline;
+    color:rgb(255, 0, 0); 
+}
     
 ul li {
     list-style-type: circle;
@@ -74,12 +88,8 @@ a:visited {
     color: blueviolet;
 }
 
-a:hover {
+a:hover, a:active {
     text-decoration: underline;
     color:rgb(255, 0, 0); 
 }
 
-a:active {
-    text-decoration: underline;
-    color:rgb(73, 160, 73); 
-}
