@@ -1,37 +1,85 @@
-h2 {color: white; 
-    text-decoration: underline;}
+h2 {
+    color: white; 
+    text-decoration: underline;
+    letter-spacing: 1.5px;
+}
 
-p {font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 16px; 
-    color: white;}
-
-header {background-color: green;
-        color: white;
-        text-align: center;
-        padding: 1em;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;     
-        font-size: 30px;        
-    }
-
-nav {display: flex;
-        justify-content: space-around;
-        background-color: white;
-        padding: 0.5;
-    }
-
-nav a {color: black;
-        text-decoration: underline;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 14px;
-    }
-    
-ul li {list-style-type: circle;
+p {
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 16px; 
     color: white;
+    letter-spacing: 1.5px;
+}
+
+header {
+    background-color: rgb(73, 160, 73);
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;     
+    font-size: 30px;
+    letter-spacing: 1.5px;        
     }
 
-ol li, dd {font-family: Verdana, Geneva, Tahoma, sans-serif; 
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 0.5em;
+    letter-spacing: 1.5px;
+    }
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    }
+    
+ul li {
+    list-style-type: circle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 16px; 
     color: white;
+    letter-spacing: 1.5px;
     }
+
+ol li, dd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 16px; 
+    color: white;
+    letter-spacing: 1.5px;
+    }
+
+h3 {
+    color: rgb(73, 160, 73);
+    letter-spacing: 1.5px;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 16px; 
+    color: white;
+    letter-spacing: 1.5px;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:rgb(255, 0, 0); 
+}
+
+a:active {
+    text-decoration: underline;
+    color:rgb(73, 160, 73); 
+}
