@@ -1,3 +1,13 @@
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.titolo{
+    color: white;
+}
+
 h2 {
     color: white; 
     text-decoration: underline;
@@ -16,8 +26,8 @@ header {
     color: white;
     text-align: center;
     padding: 1em;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;     
-    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;     
+    font-size: 40px;
     letter-spacing: 1.5px;        
     }
 
@@ -32,7 +42,7 @@ nav {
 nav a {
     color: black;
     text-decoration: none;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     letter-spacing: 1.5px;
     }
@@ -48,7 +58,7 @@ nav a:visited {
 
 nav a:hover, a:active {
     text-decoration: underline;
-    color:rgb(255, 0, 0); 
+    color:rgb(73, 160, 73); 
 }
     
 ul li {
@@ -90,6 +100,9 @@ a:visited {
 
 a:hover, a:active {
     text-decoration: underline;
-    color:rgb(255, 0, 0); 
+    color:rgb(73, 160, 73); 
 }
 
+b {
+    color: rgb(73, 160, 73);
+}
