@@ -31,3 +31,7 @@ ul li {list-style-type: circle;
     color: white;
     }
 
+ol li, dd {font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 16px; 
+    color: white;
+    }
